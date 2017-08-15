@@ -14,7 +14,7 @@ var articles= {
             </p>
             <p>
                 Feel proud to be an Indian:) 
-            </p> 
+            </p> `
      },
      
      'article2': {
@@ -23,15 +23,14 @@ var articles= {
     date:'August 16,2017',
     content:`<p>
                 Today, Independence Day so my warm wishes to you, be happy and have a peaceful day:)
-            </p>
-            <p>
-                Feel proud to be an Indian:) 
-            </p>`
+                </p>`
+            
+            
             
      }, 
      
      'article3':{
-          title:'Article three',
+    title:'Article three',
     heading:'Article three',
     date:'August 17,2017',
     content:`<p>
@@ -39,8 +38,9 @@ var articles= {
             </p>
             <p>
                 Feel proud to be an Indian:) 
-            </p>`
-     }
+            </p>
+            
+     `}
      
 };
     
