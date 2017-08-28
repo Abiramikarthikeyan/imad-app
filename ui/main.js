@@ -4,7 +4,7 @@ var element=document.getElementById('main-text'
 );
 element.innerHTML='New value';
 //move the image
-var img=document.getElementById('http://www.hdwallpapersfreedownload.com/uploads/large/cartoons/tom-and-jerry-best-friends-free-hd-wallpaper.jpg');
+var img=document.getElementById('tom-and-jerry-best-friends-free-hd-wallpaper');
 img.onClick=function(){
     img.style.marginLeft='100px';
     
