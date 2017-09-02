@@ -17,7 +17,7 @@ button.onclick=function(){
         //not done yet
     };
     //make the request
-    request.open('GET','http://cococ98.imad.hasura-app.io/counter',true);
+    request.open('GET','http://abiramikca.imad.hasura-app.io/counter',true);
     request.send(null);
     
    
